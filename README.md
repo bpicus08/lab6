@@ -1,1 +1,1 @@
-# lab6
+This lab focuses on putting a nav bar at the top while a nav bar on the side that puts you directly into different links/websites
